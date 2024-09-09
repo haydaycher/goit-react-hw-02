@@ -1,0 +1,22 @@
+.options {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.btn {
+  border: none;
+  border-radius: 3px;
+
+  cursor: pointer;
+  background: rgb(152, 152, 152);
+  color: #fafafa;
+  width: 150px;
+  padding: 10px;
+
+  font-size: 16px;
+}
+
+.btn:hover {
+  background: rgb(109, 109, 109);
+}
